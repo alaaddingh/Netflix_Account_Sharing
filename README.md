@@ -4,21 +4,19 @@
 
 ![Dashboard Preview](dashboard_preview.png)
 
-**Live Dashboard:** [https://public.tableau.com/views/NetflixAccountSharing-CrackdownRevenueARPUandMembershipImpact/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+[Netflix Account Sharing – Revenue, ARPU & Membership Impact (Tableau Dashboard)](https://public.tableau.com/views/NetflixAccountSharing-CrackdownRevenueARPUandMembershipImpact/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
 ## Overview
 
 This project analyzes Netflix’s 2023 account-sharing policy and its impact on revenue growth, global memberships, and ARPA (Average Revenue Per Account) trends between 2022 and 2024.
-
 The goal was to evaluate whether the crackdown had changed growth dynamics using Netflix's quarterly earning reports. As of 2025, Netflix has discontinued reporting membership data, eliminating ARPA calculations in recent quarters.
 ---
 
-
 ## Data Source
 
-Data was extracted from the [“Regional Information” worksheet](https://s22.q4cdn.com/959853165/files/doc_financials/2024/q4/Q4-24-Website-Financials.xlsx) in Netflix’s Q4 2024 earnings report.
+Data was extracted from Neflix's public 2024 Q4 [Quarterly Report](https://s22.q4cdn.com/959853165/files/doc_financials/2024/q4/Q4-24-Website-Financials.xlsx)
 
 ---
 
