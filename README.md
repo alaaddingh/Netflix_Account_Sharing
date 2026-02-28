@@ -8,10 +8,12 @@
 
 ---
 
-## Overview
+## Overview 
 
 This project analyzes Netflix’s 2023 account-sharing policy and its impact on revenue growth, global memberships, and ARPA (Average Revenue Per Account) trends between 2022 and 2024.
+
 The goal was to evaluate whether the crackdown had changed growth dynamics using Netflix's quarterly earning reports. As of 2025, Netflix has discontinued reporting membership data, eliminating ARPA calculations in recent quarters.
+
 ---
 
 ## Data Source
